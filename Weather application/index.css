@@ -39,7 +39,7 @@ input::placeholder{
   left:10px;
   top:10px;
   color:white;
-  font-size: 14px;
+  font-size: 15px;
 }
 .weather_body{
   display: flex;
